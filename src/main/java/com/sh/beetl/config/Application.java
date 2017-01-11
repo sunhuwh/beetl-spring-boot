@@ -2,7 +2,6 @@ package com.sh.beetl.config;
 
 import java.io.IOException;
 
-import org.beetl.core.resource.ClasspathResourceLoader;
 import org.beetl.core.resource.WebAppResourceLoader;
 import org.beetl.ext.spring.BeetlGroupUtilConfiguration;
 import org.beetl.ext.spring.BeetlSpringViewResolver;
